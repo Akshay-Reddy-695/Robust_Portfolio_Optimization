@@ -318,7 +318,7 @@ Robust-Portfolio-Optimization/
   Value-at-Risk.* Journal of Risk.
 - **Stationary Bootstrap:** Politis, D. & Romano, J. (1994), *The Stationary Bootstrap.* JASA.
 
-**Author:** Akshay Vangala
+**Author:** Vangala Akshay Reddy
 
 ---
 
